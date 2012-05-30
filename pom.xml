@@ -30,7 +30,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>liveSense Bundle Extension: JAX-WS APIs for JRE 1.6</name>
+    <name>liveSense :: Extension :: JAX-WS APIs for JRE 1.6</name>
     <description>
         Adds the JAX-WS API packages to the system bundle exports.
         The list of packages is derived from the packages available
